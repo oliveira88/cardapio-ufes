@@ -1,14 +1,5 @@
 const staticCardapio = 'cardapio-ufes-v1';
-const assets = [
-  '/',
-  '/index.html',
-  '/css/style.css',
-  '/js/script.js',
-  '/images/logo-peq.png',
-  '/images/144.png',
-  '/images/logo.png',
-  '/images/marca_ufes.png'
-];
+const assets = ['/', '/index.html', '/css/style.css', '/js/script.js', '/images/144.png', '/images/logo-peq.png'];
 
 self.addEventListener('install', installEvent => {
   installEvent.waitUntil(
