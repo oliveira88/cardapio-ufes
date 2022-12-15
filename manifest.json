@@ -1,0 +1,16 @@
+{
+  "name": "Cardápio Ufes",
+  "short_name": "CardapioUfes",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#0D3E6E",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "logo-peq.png",
+      "type": "image/png",
+      "sizes": "114x61"
+    }
+  ]
+}
