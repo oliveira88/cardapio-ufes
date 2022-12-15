@@ -5,6 +5,7 @@ const assets = [
   '/css/style.css',
   '/js/script.js',
   '/images/logo-peq.png',
+  '/images/144.png',
   '/images/logo.png',
   '/images/marca_ufes.png'
 ];
