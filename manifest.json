@@ -8,9 +8,9 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "logo-peq.png",
+      "src": "/images/144.png",
       "type": "image/png",
-      "sizes": "114x61"
+      "sizes": "144x144"
     }
   ]
 }
